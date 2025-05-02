@@ -1,0 +1,14 @@
+@font-face {
+    font-family: "Sour Gummy";
+    src: url("SourGummy-Italic-VariableFont_wdth\,wght.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+body, 
+.markdown-source-view, 
+.markdown-source-view.mod-cm6 .cm-scroller, 
+.markdown-preview-view, 
+.cm-s-obsidian {
+    font-family: "Sour Gummy", sans-serif !important;
+}
