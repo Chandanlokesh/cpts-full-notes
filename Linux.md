@@ -4,3 +4,6 @@
 [[linux-VIM]]
 [[linux-finding files and directories]]
 [[linux-file description and redirection]]
+[[linux-filtering content]]
+[[linux-regular expression]]
+[[linux-permission management]]

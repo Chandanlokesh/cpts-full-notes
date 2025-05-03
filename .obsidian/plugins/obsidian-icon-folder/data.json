@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "🐧",
       "LiLayout",
       "LiAtom"
     ],
@@ -31,5 +32,6 @@
     "debugMode": false,
     "useInternalPlugins": false
   },
-  "Tmux.md": "LiLayout"
+  "Tmux.md": "LiLayout",
+  "Linux.md": "🐧"
 }
