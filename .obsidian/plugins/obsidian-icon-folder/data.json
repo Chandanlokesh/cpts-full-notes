@@ -6,6 +6,7 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiTarget",
       "🐧",
       "LiLayout",
       "LiAtom"
@@ -33,5 +34,8 @@
     "useInternalPlugins": false
   },
   "Tmux.md": "LiLayout",
-  "Linux.md": "🐧"
+  "vulnerability asses/Vulnerability Assessment.md": "LiTarget",
+  "linux/Linux.md": "🐧",
+  "vulnerability asses": "LiTarget",
+  "linux": "🐧"
 }

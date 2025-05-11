@@ -13,6 +13,20 @@
         "a": 1,
         "rgb": 16734043
       }
+    },
+    {
+      "query": "file:VA",
+      "color": {
+        "a": 1,
+        "rgb": 14069084
+      }
+    },
+    {
+      "query": "",
+      "color": {
+        "a": 1,
+        "rgb": 11392604
+      }
     }
   ],
   "collapse-display": false,
@@ -25,6 +39,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.9778214534818839,
+  "scale": 0.33091301114238036,
   "close": true
 }
