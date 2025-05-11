@@ -34,8 +34,8 @@
     "useInternalPlugins": false
   },
   "Tmux.md": "LiLayout",
-  "vulnerability asses/Vulnerability Assessment.md": "LiTarget",
   "linux/Linux.md": "🐧",
   "vulnerability asses": "LiTarget",
-  "linux": "🐧"
+  "linux": "🐧",
+  "vulnerability asses/va-Vulnerability Assessment.md": "LiTarget"
 }

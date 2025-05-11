@@ -4,39 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "4c26e0bfcd4fa66d",
+        "id": "1f182c5b4db61184",
         "type": "tabs",
         "children": [
           {
-            "id": "771d898fa9bebdef",
+            "id": "6151a8c0996d89e5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "vulnerability asses/VA-Vulnerability Assessment.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "VA-Vulnerability Assessment"
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
             }
           },
           {
-            "id": "f35bd9db0ef1baf3",
+            "id": "6f3fb6e967d73214",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vulnerability asses/VA-getting started with nessus.md",
+                "file": "vulnerability asses/VA-Reporting.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VA-getting started with nessus"
+              "title": "VA-Reporting"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -188,15 +183,26 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f35bd9db0ef1baf3",
+  "active": "6151a8c0996d89e5",
   "lastOpenFiles": [
-    "vulnerability asses/Vulnerability Assessment.md",
+    "cpts Notes.md",
+    "vulnerability asses/va-Vulnerability Assessment.md",
+    "vulnerability asses/VA-Reporting.md",
+    "vulnerability asses/VA-Vulnerability Assessment section.md",
+    "vulnerability asses/image 6.png",
+    "vulnerability asses/VA-Exporting the results.md",
+    "vulnerability asses/VA- openVAS scan.md",
+    "vulnerability asses/image 5.png",
+    "vulnerability asses/image-2 1.png",
+    "vulnerability asses/image-1 1.png",
+    "vulnerability asses/image 4.png",
+    "vulnerability asses/VA-getting started with openVAS.md",
+    "vulnerability asses/image 3.png",
+    "vulnerability asses/VA-getting started with nessus.md",
     "vulnerability asses/VA-scanning Issues.md",
-    "vulnerability asses/VA-Vulnerability Assessment.md",
     "vulnerability asses/VA-working with nessus scan output.md",
     "vulnerability asses/VA-Advanced Settings.md",
     "vulnerability asses/VA-Nessus scan.md",
-    "vulnerability asses/VA-getting started with nessus.md",
     "vulnerability asses/VA-vulnerability scanning overview.md",
     "git repo commands.md",
     "Tmux.md",
@@ -211,23 +217,12 @@
     "vulnerability asses/VA-Assessment Standards.md",
     "vulnerability asses/image-3.png",
     "vulnerability asses/image-2.png",
-    "vulnerability asses/image-1.png",
-    "vulnerability asses/image.png",
     "vulnerability asses/VA-Security Assessments.md",
     "vulnerability asses",
     "Excalidraw/Drawing 2025-05-03 19.47.33.excalidraw.md",
     "linux/Linux.md",
     "linux",
     "linux/linux-file system management.md",
-    "linux/linux-backup and restor.md",
-    "linux/linux-working with webservices.md",
-    "linux/linux-Network Services.md",
-    "linux/linux-task scheduling.md",
-    "linux/linux-service & process management.md",
-    "cpts-notes/images/image-1 3.png",
-    "cpts-notes/images/image 3.png",
-    "cpts-notes/images/image-4 1.png",
-    "cpts-notes/images/image-3 1.png",
     "cpts-notes/images",
     "Untitled.canvas",
     "Excalidraw",
