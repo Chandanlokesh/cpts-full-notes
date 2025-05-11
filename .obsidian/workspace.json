@@ -8,20 +8,35 @@
         "type": "tabs",
         "children": [
           {
-            "id": "9f20fe59310b2218",
+            "id": "771d898fa9bebdef",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "git repo commands.md",
+                "file": "vulnerability asses/VA-Vulnerability Assessment.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "git repo commands"
+              "title": "VA-Vulnerability Assessment"
+            }
+          },
+          {
+            "id": "f35bd9db0ef1baf3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "vulnerability asses/VA-getting started with nessus.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "VA-getting started with nessus"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -173,20 +188,27 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "9f20fe59310b2218",
+  "active": "f35bd9db0ef1baf3",
   "lastOpenFiles": [
+    "vulnerability asses/Vulnerability Assessment.md",
+    "vulnerability asses/VA-scanning Issues.md",
+    "vulnerability asses/VA-Vulnerability Assessment.md",
+    "vulnerability asses/VA-working with nessus scan output.md",
+    "vulnerability asses/VA-Advanced Settings.md",
+    "vulnerability asses/VA-Nessus scan.md",
+    "vulnerability asses/VA-getting started with nessus.md",
+    "vulnerability asses/VA-vulnerability scanning overview.md",
+    "git repo commands.md",
     "Tmux.md",
     "linux/linux-regular expression.md",
     "linux/linux-permission management.md",
     "linux/linux-Containerization.md",
     "linux/linux-file description and redirection.md",
-    "vulnerability asses/Vulnerability Assessment.md",
     "vulnerability asses/VA-CVE.md",
     "vulnerability asses/VA-Common Vulnerability Scoring System.md",
     "vulnerability asses/image 2.png",
     "vulnerability asses/image 1.png",
     "vulnerability asses/VA-Assessment Standards.md",
-    "vulnerability asses/VA-Vulnerability Assessment.md",
     "vulnerability asses/image-3.png",
     "vulnerability asses/image-2.png",
     "vulnerability asses/image-1.png",
@@ -202,13 +224,6 @@
     "linux/linux-Network Services.md",
     "linux/linux-task scheduling.md",
     "linux/linux-service & process management.md",
-    "linux/linux-package management.md",
-    "linux/linux-User management.md",
-    "linux/linux-filtering content.md",
-    "linux/linux-finding files and directories.md",
-    "linux/linux-System Information.md",
-    "linux/linux-working with files and directories.md",
-    "linux/linux-navigation.md",
     "cpts-notes/images/image-1 3.png",
     "cpts-notes/images/image 3.png",
     "cpts-notes/images/image-4 1.png",
