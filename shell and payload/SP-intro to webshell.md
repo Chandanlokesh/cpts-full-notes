@@ -1,0 +1,3 @@
+- "get in" (gain a foothold inside the internal network) via web application attacks (file upload attacks, SQL injection, RFI/LFI, command injection, etc.), password spraying (against RDS, VPN portals, Citrix, OWA, and other applications using Active Directory authentication), and social engineering.
+- A `web shell` is a browser-based shell session we can use to interact with the underlying operating system of a web server.
+- to access the web shell we need to find the web app vulnerability

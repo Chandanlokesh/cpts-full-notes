@@ -6,10 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
-      "LiTarget",
-      "🐧",
-      "LiLayout",
-      "LiAtom"
+      "LiKeySquare",
+      "LiEye",
+      "LiSquareChevronLeft",
+      "LiFileStack",
+      "LiBadgeInfo"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -37,5 +38,15 @@
   "linux/Linux.md": "🐧",
   "vulnerability asses": "LiTarget",
   "linux": "🐧",
-  "vulnerability asses/va-Vulnerability Assessment.md": "LiTarget"
+  "vulnerability asses/va-Vulnerability Assessment.md": "LiTarget",
+  "info-web": "LiBadgeInfo",
+  "info-web/IG-web.md": "LiBadgeInfo",
+  "file transfer": "LiFileStack",
+  "file transfer/FT-file transfer.md": "LiFileStack",
+  "shell and payload": "LiSquareChevronLeft",
+  "shell and payload/SP- shell and payload.md": "LiSquareChevronLeft",
+  "nmap": "LiEye",
+  "nmap/np-nmap.md": "LiEye",
+  "password attack": "LiKeySquare",
+  "password attack/pa-password attack.md": "LiKeySquare"
 }

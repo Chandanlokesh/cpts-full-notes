@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "1f182c5b4db61184",
+        "id": "74e43ec90c6048e0",
         "type": "tabs",
         "children": [
           {
-            "id": "6151a8c0996d89e5",
+            "id": "5a058d2e171fe298",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -18,20 +18,35 @@
             }
           },
           {
-            "id": "6f3fb6e967d73214",
+            "id": "94cd9b957e4f9379",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "vulnerability asses/VA-Reporting.md",
+                "file": "password attack/pa-password attack.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "VA-Reporting"
+              "title": "pa-password attack"
+            }
+          },
+          {
+            "id": "a18a7ec4cfb3c79a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "pa-network services.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "pa-network services"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -88,7 +103,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "163586ae7975bb52",
@@ -183,56 +199,56 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "6151a8c0996d89e5",
+  "active": "a18a7ec4cfb3c79a",
   "lastOpenFiles": [
+    "shell and payload/SP-Craf_ing Payloads with MSFvenom.md",
+    "shell and payload/SP- shell and payload.md",
+    "shell and payload/SP-infiltrating u&l.md",
+    "pa-network services.md",
+    "password attack/pa-password attack.md",
+    "password attack/pa-john the ripper.md",
+    "password attack/pa-credential storage.md",
+    "password attack/image 1.png",
+    "password attack/image.png",
+    "password attack/pa-theory of protection.md",
     "cpts Notes.md",
-    "vulnerability asses/va-Vulnerability Assessment.md",
-    "vulnerability asses/VA-Reporting.md",
-    "vulnerability asses/VA-Vulnerability Assessment section.md",
-    "vulnerability asses/image 6.png",
-    "vulnerability asses/VA-Exporting the results.md",
-    "vulnerability asses/VA- openVAS scan.md",
-    "vulnerability asses/image 5.png",
-    "vulnerability asses/image-2 1.png",
-    "vulnerability asses/image-1 1.png",
-    "vulnerability asses/image 4.png",
-    "vulnerability asses/VA-getting started with openVAS.md",
-    "vulnerability asses/image 3.png",
-    "vulnerability asses/VA-getting started with nessus.md",
-    "vulnerability asses/VA-scanning Issues.md",
-    "vulnerability asses/VA-working with nessus scan output.md",
-    "vulnerability asses/VA-Advanced Settings.md",
-    "vulnerability asses/VA-Nessus scan.md",
-    "vulnerability asses/VA-vulnerability scanning overview.md",
-    "git repo commands.md",
-    "Tmux.md",
-    "linux/linux-regular expression.md",
-    "linux/linux-permission management.md",
-    "linux/linux-Containerization.md",
-    "linux/linux-file description and redirection.md",
-    "vulnerability asses/VA-CVE.md",
-    "vulnerability asses/VA-Common Vulnerability Scoring System.md",
-    "vulnerability asses/image 2.png",
-    "vulnerability asses/image 1.png",
-    "vulnerability asses/VA-Assessment Standards.md",
-    "vulnerability asses/image-3.png",
-    "vulnerability asses/image-2.png",
-    "vulnerability asses/VA-Security Assessments.md",
+    "color.md",
+    "password attack",
+    "nmap/np-nmap.md",
+    "nmap/np-host discovery.md",
+    "nmap/np-intro to nmap.md",
+    "nmap/np-Enumeration.md",
+    "nmap",
+    "shell and payload/SP-Detection and prevention.md",
+    "shell and payload/SP-PHP Web Shells.md",
+    "shell and payload/SP-antak webshell.md",
+    "shell and payload/SP-Laudanum.md",
+    "shell and payload/image-4.png",
+    "shell and payload/image-3.png",
+    "shell and payload/image-2.png",
+    "shell and payload/image-1 3.png",
+    "shell and payload/image-1 3.png",
+    "shell and payload/image-1 2.png",
+    "shell and payload/image-1 1.png",
+    "shell and payload/image 5.png",
+    "shell and payload/SP-intro to webshell.md",
+    "shell and payload/SP-spawning interactive shells.md",
+    "shell and payload/SP-infiltrating windows.md",
+    "file transfer/FT-intro.md",
+    "file transfer/FT-windows file transfer methods.md",
+    "stack.md",
+    "Untitled.md",
+    "shell and payload/SP-automating payload with metasploit.md",
+    "shell and payload",
+    "Excalidraw",
+    "file transfer",
+    "info-web",
     "vulnerability asses",
-    "Excalidraw/Drawing 2025-05-03 19.47.33.excalidraw.md",
-    "linux/Linux.md",
     "linux",
-    "linux/linux-file system management.md",
     "cpts-notes/images",
     "Untitled.canvas",
-    "Excalidraw",
     "GIR notes",
-    "BSCP",
-    "tool-box",
-    "tool-box/tool-box",
     "my-spts.canvas",
-    "cpts-notes",
-    "Footprinting",
     "learning.canvas"
   ]
 }

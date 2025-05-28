@@ -4,7 +4,7 @@
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
-  "showOrphans": true,
+  "showOrphans": false,
   "collapse-color-groups": false,
   "colorGroups": [
     {
@@ -22,23 +22,51 @@
       }
     },
     {
-      "query": "",
+      "query": "file:IG",
       "color": {
         "a": 1,
         "rgb": 11392604
       }
+    },
+    {
+      "query": "file:FT",
+      "color": {
+        "a": 1,
+        "rgb": 261139
+      }
+    },
+    {
+      "query": "file:SP",
+      "color": {
+        "a": 1,
+        "rgb": 6084269
+      }
+    },
+    {
+      "query": "file:np",
+      "color": {
+        "a": 1,
+        "rgb": 6053078
+      }
+    },
+    {
+      "query": "file:pa",
+      "color": {
+        "a": 1,
+        "rgb": 11361494
+      }
     }
   ],
-  "collapse-display": false,
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
+  "nodeSizeMultiplier": 1.15125899280576,
+  "lineSizeMultiplier": 1.32877697841727,
   "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.703949454781893,
+  "scale": 0.5074497487661951,
   "close": true
 }

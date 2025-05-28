@@ -1,0 +1,2 @@
+- A `shell` is a program that provides a computer user with an interface to input instructions into the system and view text output
+- `harder to detect than graphical shells`, `faster to navigate the OS`, and `easier to automate our actions`.

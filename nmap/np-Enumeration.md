@@ -1,0 +1,7 @@
+- identifying all of the ways we could attack a target
+- tools are tools 
+- `Functions and/or resources that allow us to interact with the target and/or provide additional information.`
+- `Information that provides us with even more important information to access our target`
+- enumeration is the key
+- not the tool we need to understand the fact we should understand
+- manual enumeration is critical component 
