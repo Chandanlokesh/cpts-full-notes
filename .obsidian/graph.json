@@ -55,6 +55,13 @@
         "a": 1,
         "rgb": 11361494
       }
+    },
+    {
+      "query": "file:MSF",
+      "color": {
+        "a": 1,
+        "rgb": 14048429
+      }
     }
   ],
   "collapse-display": true,
@@ -68,5 +75,5 @@
   "linkStrength": 1,
   "linkDistance": 250,
   "scale": 0.5074497487661951,
-  "close": true
+  "close": false
 }
