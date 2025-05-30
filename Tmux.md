@@ -1,4 +1,4 @@
-Nice! You’ve gathered solid raw notes. Let me help you structure and clean them up so they’re easy to revise and understand later.
+**Nice**! You’ve gathered solid raw notes. Let me help you structure and clean them up so they’re easy to revise and understand later.
 
 ---
 
