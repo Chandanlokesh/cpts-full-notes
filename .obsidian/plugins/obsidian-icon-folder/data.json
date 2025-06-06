@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "📶",
       "LiSkull",
       "🐍",
       "LiKeySquare",
-      "LiEye",
-      "LiSquareChevronLeft"
+      "LiEye"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -50,5 +50,7 @@
   "password attack": "LiKeySquare",
   "password attack/pa-password attack.md": "LiKeySquare",
   "metasploit": "LiSkull",
-  "metasploit/MSF.md": "LiSkull"
+  "metasploit/MSF.md": "LiSkull",
+  "networking": "📶",
+  "networking/NT-networking.md": "📶"
 }

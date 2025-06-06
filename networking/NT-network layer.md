@@ -1,0 +1,3 @@
+- the exchange of data packets, as these cannot be directly routed to the receiver and therefore have to be provided with routing nodes.
+- this process is done in L3
+- responsible for `logical addressing` `routing`
