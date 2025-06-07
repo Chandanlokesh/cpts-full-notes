@@ -62,6 +62,13 @@
         "a": 1,
         "rgb": 14048429
       }
+    },
+    {
+      "query": "file:GS",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
     }
   ],
   "collapse-display": true,
@@ -74,6 +81,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.6416492677570388,
-  "close": true
+  "scale": 0.8113390218719748,
+  "close": false
 }

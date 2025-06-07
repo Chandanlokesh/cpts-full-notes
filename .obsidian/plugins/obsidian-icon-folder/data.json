@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "LiStars",
       "📶",
       "LiSkull",
       "🐍",
-      "LiKeySquare",
-      "LiEye"
+      "LiKeySquare"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -52,5 +52,7 @@
   "metasploit": "LiSkull",
   "metasploit/MSF.md": "LiSkull",
   "networking": "📶",
-  "networking/NT-networking.md": "📶"
+  "networking/NT-networking.md": "📶",
+  "getting started": "LiStars",
+  "getting started/GS-Getting started.md": "LiStars"
 }
