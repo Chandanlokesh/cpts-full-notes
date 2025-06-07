@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS-public exploits.md",
+                "file": "getting started/GS-public exploits.md",
                 "mode": "source",
                 "source": false
               },
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "163586ae7975bb52",
@@ -174,12 +173,12 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "a033dc2f64184c7d",
+  "active": "647f97f77732d419",
   "lastOpenFiles": [
     "getting started/GS-Getting started.md",
-    "GS-public exploits.md",
-    "GS-web enumeration.md",
-    "GS-service scanning.md",
+    "getting started/GS-public exploits.md",
+    "getting started/GS-web enumeration.md",
+    "getting started/GS-service scanning.md",
     "getting started/GS-basic tools.md",
     "getting started/GS-common terms.md",
     "getting started/GS-connecting vpn.md",
