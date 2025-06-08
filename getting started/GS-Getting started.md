@@ -7,6 +7,11 @@
 [[GS-service scanning]]
 [[GS-web enumeration]]
 [[GS-public exploits]]
+[[GS-types of shells]]
+[[GS-privilege escalation]]
+[[GS-transferring files]]
+[[GS-starting out]]
+
 
 
 
