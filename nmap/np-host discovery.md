@@ -38,3 +38,11 @@ sudo nmap 10.129.2.18 -sn -oA host
 `--disable-arp-ping` to disable ARP ping
 
 [more info](https://nmap.org/book/host-discovery-strategies.html) great resource
+
+## 🧠 Difference Between ICMP and ARP
+
+|Ping Type|Works On|Purpose|Bypasses Firewalls?|Common Use|
+|---|---|---|---|---|
+|**ICMP (e.g., -PE)**|Local + remote networks|Uses `ping`-like messages|❌ Often blocked by firewalls|Public IPs, remote scanning|
+|**ARP Ping**|Only works on local LAN/subnet|Resolves IP to MAC address|✅ Can't be blocked|Fast, accurate LAN scanning|
+namp use arp by default
