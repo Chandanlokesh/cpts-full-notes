@@ -6,11 +6,11 @@
     "emojiStyle": "native",
     "iconColor": null,
     "recentlyUsedIcons": [
+      "👣",
       "LiStars",
       "📶",
       "LiSkull",
-      "🐍",
-      "LiKeySquare"
+      "🐍"
     ],
     "recentlyUsedIconsSize": 5,
     "rules": [],
@@ -54,5 +54,7 @@
   "networking": "📶",
   "networking/NT-networking.md": "📶",
   "getting started": "LiStars",
-  "getting started/GS-Getting started.md": "LiStars"
+  "getting started/GS-Getting started.md": "LiStars",
+  "footprinting": "👣",
+  "footprinting/FT-footprinting.md": "👣"
 }

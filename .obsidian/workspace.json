@@ -4,11 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "3acb7378d6d83582",
+        "id": "09aa88a8931eb679",
         "type": "tabs",
         "children": [
           {
-            "id": "123b06f742fb9de5",
+            "id": "f6aeb6365e0aeea4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "footprinting/FT-smb.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FT-smb"
+            }
+          },
+          {
+            "id": "457566b1c81d4337",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://github.com/fortra/impacket/blob/master/examples/samrdump.py",
+                "title": "impacket/examples/samrdump.py at master · fortra/impacket · GitHub",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "impacket/examples/samrdump.py at master · fortra/impacket · GitHub"
+            }
+          },
+          {
+            "id": "d2726ac994892688",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -175,34 +203,35 @@
   },
   "active": "647f97f77732d419",
   "lastOpenFiles": [
+    "git repo commands.md",
+    "footprinting/FT-smb.md",
+    "footprinting/FT-footprinting.md",
     "nmap-cheat sheet.md",
-    "nmap/np-firewalls.md",
-    "nmap/np-nmap.md",
-    "nmap/np-performance.md",
-    "nmap/np-nse.md",
-    "nmap/np-service enumeration.md",
-    "nmap/np-host and port scanning.md",
-    "nmap/np-host discovery.md",
-    "nmap/np-intro to nmap.md",
-    "nmap/np-Enumeration.md",
-    "getting started/GS-Getting started.md",
-    "getting started/GS-starting out.md",
-    "getting started/GS-transferring files.md",
-    "getting started/GS-privilege escalation.md",
-    "getting started/GS-types of shells.md",
+    "footprinting/FT-ftp.md",
+    "vulnerability asses/VA-scanning Issues.md",
+    "vulnerability asses/VA-working with nessus scan output.md",
+    "vulnerability asses/VA-vulnerability scanning overview.md",
+    "vulnerability asses/VA-Vulnerability Assessment section.md",
+    "vulnerability asses/VA-Nessus scan.md",
+    "vulnerability asses/VA-Exporting the results.md",
+    "vulnerability asses/VA-CVE.md",
+    "vulnerability asses/VA-Common Vulnerability Scoring System.md",
+    "vulnerability asses/VA-Assessment Standards.md",
+    "vulnerability asses/VA-Advanced Settings.md",
+    "vulnerability asses/VA- openVAS scan.md",
+    "info-web/IG-whois.md",
+    "info-web/IG-virtual host.md",
+    "info-web/IG-utilising whois.md",
+    "info-web/IG-subdomains.md",
+    "info-web/IG-subdomain bruteforcing.md",
+    "info-web/IG-introduction.md",
+    "info-web/IG-DNS Zone Transfer.md",
+    "info-web/IG-DNS.md",
+    "info-web/IG-digging.md",
+    "info-web/IG-certificate Transparency Logs.md",
+    "footprinting",
     "getting started/image 1.png",
-    "getting started/GS-public exploits.md",
-    "getting started/GS-web enumeration.md",
-    "getting started/GS-service scanning.md",
-    "getting started/GS-basic tools.md",
-    "getting started/GS-common terms.md",
-    "getting started/GS-connecting vpn.md",
     "getting started/image.png",
-    "getting started/GS-stay organized.md",
-    "getting started/GS-pentest distro.md",
-    "getting started/GS-infosec overview.md",
-    "cpts Notes.md",
-    "stack.md",
     "getting started",
     "networking/image.png",
     "networking/image 1.png",
@@ -220,7 +249,6 @@
     "nmap",
     "shell and payload",
     "Excalidraw",
-    "file transfer",
     "Untitled.canvas",
     "my-spts.canvas",
     "learning.canvas"

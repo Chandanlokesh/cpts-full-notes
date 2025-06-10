@@ -183,3 +183,14 @@ namp is asking 8.8.8.8 or 1.1.1.1 for the ip of scanme.namp.org
 ```shell
 sudo ncat -nv --source-port 53 10.129.2.28 50000
 ```
+
+NSE scripts are located on the Pwnbox in `/usr/share/nmap/scripts/`
+
+```shell-session
+sudo nmap --script-updatedb
+```
+```shell-session
+find / -type f -name ftp* 2>/dev/null | grep scripts
+```
+
+`--script-trace` progress of NSE
