@@ -4,7 +4,7 @@
 [[FT-file transfer]]
 [[SP- shell and payload]]
 [[np-nmap]]
-[[pa-password attack]]
+[[PA-password attack]]
 [[MSF]]
 [[NT-networking]]
 [[GS-Getting started]]

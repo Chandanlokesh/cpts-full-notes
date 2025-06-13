@@ -1,5 +1,5 @@
 {
-  "collapse-filter": false,
+  "collapse-filter": true,
   "search": "",
   "showTags": false,
   "showAttachments": false,
@@ -29,7 +29,7 @@
       }
     },
     {
-      "query": "file:FT",
+      "query": "file:FTN",
       "color": {
         "a": 1,
         "rgb": 261139
@@ -69,6 +69,13 @@
         "a": 1,
         "rgb": 14048348
       }
+    },
+    {
+      "query": "file:FT",
+      "color": {
+        "a": 1,
+        "rgb": 14048348
+      }
     }
   ],
   "collapse-display": true,
@@ -81,6 +88,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.4013177610612955,
+  "scale": 0.6551296089362925,
   "close": true
 }

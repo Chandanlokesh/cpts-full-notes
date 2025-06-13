@@ -48,7 +48,6 @@
   "nmap": "LiEye",
   "nmap/np-nmap.md": "LiEye",
   "password attack": "LiKeySquare",
-  "password attack/pa-password attack.md": "LiKeySquare",
   "metasploit": "LiSkull",
   "metasploit/MSF.md": "LiSkull",
   "networking": "📶",
@@ -56,5 +55,6 @@
   "getting started": "LiStars",
   "getting started/GS-Getting started.md": "LiStars",
   "footprinting": "👣",
-  "footprinting/FT-footprinting.md": "👣"
+  "footprinting/FT-footprinting.md": "👣",
+  "password attack/PA-password attack.md": "LiKeySquare"
 }
